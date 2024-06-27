@@ -1,2 +1,2 @@
-# cloud-EC2
-this is my first repository
+# Cloud-EC2
+This repository related to launching web server on EC2
