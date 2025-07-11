@@ -23,7 +23,7 @@ Installing web server on EC2
 # service apache2 start
 
 * Verify whether service started or not
-# service apache2 status
+# service apache2 (status)
 
 * Go to browser and enter the IP
 
